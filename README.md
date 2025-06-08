@@ -1,5 +1,5 @@
 
-# 🚦 Sistem Prediksi Kemacetan Lalu Lintas Berbasis Kecerdasan Buatan
+# 🚦 Sistem Prediksi Kemacetan Lalu Lintas Berbasis AI
 
 Program ini merupakan aplikasi monitoring lalu lintas berbasis AI yang digunakan untuk memprediksi kemacetan lalu lintas di kota Bengkulu lalu memberikan rute alternatif menggunakan peta interaktif 
 
